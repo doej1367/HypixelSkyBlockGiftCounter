@@ -1,5 +1,4 @@
-# Contributing to RNG-Drops Data Collector
-
+# Contributing to Gift Counter
 ## Recomended Software
 - [Eclipse](https://www.eclipse.org/downloads/)
     - any java capable IDE would work, but Eclipse and WindowBuilder is a nice combination
